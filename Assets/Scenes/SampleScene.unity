@@ -235,6 +235,7 @@ MonoBehaviour:
   m_EditorClassIdentifier: 
   direction: {x: 0, y: 0, z: 0}
   playerSpeed: 2
+  particleEffectsPrefab: {fileID: 3863522090149324277, guid: fd1400aedf6196f4f8010b07b2d0c947, type: 3}
 --- !u!54 &275777483
 Rigidbody:
   m_ObjectHideFlags: 0
